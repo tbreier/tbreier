@@ -2,7 +2,8 @@
 
 - I am currently working as Engineering Lead at [Nexus Events](https://nexusevents.io) working on an innovative online conference product - we're [hiring](https://angel.co/company/nexus-events)!
 - I have been getting interested in Music Information Retrieval (MIR)
-- [Want to find out your top tracks on Spotify?](http://www.echolot-music.com/)
+  - Together with Anjunabeats, I built a [top tracks on Spotify](https://playlist.anjunabeats.com/) that creates a playlist to celebrate the label's 20th birthday!
+  - Want to find out your [top tracks on Spotify](http://www.echolot-music.com/)?
 - Check out my [website](http://thomas.breier.xyz) for more!
 
 
