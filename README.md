@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am currently working as Engineering Lead at [Nexus Events](https://nexusevents.io) working on an innovative online conference product - we're [hiring](https://angel.co/company/nexus-events)!
+- I have been getting interested in Music Information Retrieval (MIR)
+- [Want to find out your top tracks on Spotify?](http://www.echolot-music.com/)
+- Check out my [website](http://thomas.breier.xyz) for more!
+
+
 <!--
 **tbreier/tbreier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
